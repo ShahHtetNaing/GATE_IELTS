@@ -1,0 +1,7 @@
+{
+  "name": "GATE IELTS Prep",
+  "description": "Grand Association of Technology and Education - Comprehensive IELTS Academic Simulator and Evaluator",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
